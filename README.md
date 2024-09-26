@@ -1,4 +1,7 @@
-Chyna Williams/ cmwill98@outloo.com
-GitHub account is used for new projects 
-created a repository for new projects
-I cloned my repository and added the file to my desktop
+#About Chyna
+##My Interests
+Watching anime
+walking my dog
+cooking international foods 
+working out 
+##Websites I recommend
