@@ -1,1 +1,4 @@
-# example site
+```mermaid
+flowchart TD
+ Start([Start]) --> End([End])
+```
