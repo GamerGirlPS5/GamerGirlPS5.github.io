@@ -4,5 +4,3 @@ flowchart TD
     C --> D[Rethink]
     D --> B
     B ---->|No| E[End]
-
-
